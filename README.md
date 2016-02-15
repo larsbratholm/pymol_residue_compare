@@ -6,7 +6,7 @@ To generate png files automatically from 3 different angles, add `1` or `True` a
 
 `pymol -r pymol_residue_compare.py -- example/pdb1.pdb example/pdb2.pdb 31,35 True`
 
-![](https://github.com/larsbratholm/pymol_residue_compare/example/31_0.png)
-![](https://github.com/larsbratholm/pymol_residue_compare/example/35_1.png)
+![Residue 31](https://github.com/larsbratholm/pymol_residue_compare/example/31_0.png)
+![Residue 35](https://github.com/larsbratholm/pymol_residue_compare/example/35_1.png)
 
 
